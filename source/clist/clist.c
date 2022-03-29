@@ -1,7 +1,7 @@
-#include "clist/clist.h"
-
-#include <stdlib.h>
 #include <string.h>
+#include <stdlib.h>
+
+#include "clist.h"
 
 /**
  * @brief 初始化循环链表

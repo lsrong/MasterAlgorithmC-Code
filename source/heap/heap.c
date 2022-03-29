@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "heap/heap.h"
+#include "heap.h"a
 
 /* 定义数组下标转换成二叉树的位置关系 */
 // 父结点

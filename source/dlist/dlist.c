@@ -1,7 +1,4 @@
-#include <stdlib.h>
-#include "dlist/dlist.h"
-
-
+#include "dlist.h"
 
 /**
  * @brief 初始化一个双向链表

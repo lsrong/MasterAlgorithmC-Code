@@ -3,7 +3,7 @@
 //
 #include <stdlib.h>
 #include <string.h>
-#include "list/list.h"
+#include "list.h"
 
 // list_init 初始化链表
 void list_init(List *list, void (*destroy)(void *data))

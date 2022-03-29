@@ -1,5 +1,5 @@
 /* traverse.c */
-#include "list/list.h"
+#include "list.h"
 #include "traverse.h"
 
 // preorder 前序遍历
